@@ -1,0 +1,830 @@
+[
+    {
+        "Course Name": "Belajar Fundamental Analisis Data",
+        "Learning Hour": "70 Jam",
+        "Rating": "4,83",
+        "Level": "Menengah",
+        "Summary": "Pelajari berbagai konsep dasar analisis data beserta tahapannya, dilengkapi pembahasan studi kasus menggunakan bahasa pemrograman Python. ",
+        "Total Modules": "61 Modul",
+        "Total Students": "60.911 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Toolset untuk Pengembangan Front-End Web",
+        "Learning Hour": "65 Jam",
+        "Rating": "4,87",
+        "Level": "Mahir",
+        "Summary": "Pelajari tools berstandar industri dengan Sass, Bootstrap, Lit, Axios, dan Firebase dalam membangun aplikasi web yang efisien dan powerful.",
+        "Total Modules": "131 Modul",
+        "Total Students": "2.963 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Dasar Manajemen Proyek",
+        "Learning Hour": "11 Jam",
+        "Rating": "4,86",
+        "Level": "Dasar",
+        "Summary": "Mempelajari dasar manajemen proyek, siklus dan metodologi manajemen proyek, hingga mengejar karir manajemen proyek.",
+        "Total Modules": "38 Modul",
+        "Total Students": "30.488 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Pemrograman Fungsional dengan Haskell",
+        "Learning Hour": "20 Jam",
+        "Rating": "4,92",
+        "Level": "Pemula",
+        "Summary": "Perdalam kemampuan pemrograman fungsional dengan Haskell melalui teknik list comprehension, pattern matching, hingga higher order functions.",
+        "Total Modules": "65 Modul",
+        "Total Students": "717 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Penerapan Data Science",
+        "Learning Hour": "110 Jam",
+        "Rating": "4,89",
+        "Level": "Mahir",
+        "Summary": "Pelajari tools, teknik, dan penerapan data science melalui berbagai studi kasus yang umum dijumpai di industri.",
+        "Total Modules": "72 Modul",
+        "Total Students": "3.364 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Dasar Structured Query Language (SQL)",
+        "Learning Hour": "11 Jam",
+        "Rating": "4,87",
+        "Level": "Dasar",
+        "Summary": "Pelajari berbagai konsep dasar structured query language (SQL) mulai dari pengenalan data dan basis data hingga berlatih basic query.",
+        "Total Modules": "44 Modul",
+        "Total Students": "115.363 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Memulai Pemrograman dengan Haskell",
+        "Learning Hour": "20 Jam",
+        "Rating": "4,86",
+        "Level": "Dasar",
+        "Summary": "Belajar pemrograman Haskell yang merupakan bahasa fungsional murni dan didesain untuk pembelajaran, riset, dan aplikasi industri.",
+        "Total Modules": "61 Modul",
+        "Total Students": "9.888 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Menjadi Node.js Application Developer",
+        "Learning Hour": "57 Jam",
+        "Rating": "4,83",
+        "Level": "Menengah",
+        "Summary": "Pelajari core module Node.js secara mendalam agar mampu membangun aplikasi untuk berbagai tujuan dengan menggunakan JavaScript.",
+        "Total Modules": "155 Modul",
+        "Total Students": "1.742 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Dasar Data Science",
+        "Learning Hour": "11 Jam",
+        "Rating": "4,84",
+        "Level": "Dasar",
+        "Summary": "Pelajari dasar data science mulai dari pengenalan data hingga membuat portofolio untuk mengantarkan Anda menjadi seorang data scientist.",
+        "Total Modules": "50 Modul",
+        "Total Students": "101.093 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Pemrograman Prosedural dengan Python",
+        "Learning Hour": "33 Jam",
+        "Rating": "4,85",
+        "Level": "Pemula",
+        "Summary": "Pelajari konsep pemrograman prosedural dalam menyusun program Python untuk pemecahan masalah berdasarkan aksi yang terstruktur.",
+        "Total Modules": "80 Modul",
+        "Total Students": "6.508 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Dasar AI",
+        "Learning Hour": "10 Jam",
+        "Rating": "4,87",
+        "Level": "Dasar",
+        "Summary": "Kelas ini memberikan pemahaman terkait dasar-dasar Artificial Intelligence dan subbidang AI mencakup Machine Learning serta Deep Learning.",
+        "Total Modules": "39 Modul",
+        "Total Students": "229.739 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Penerapan Machine Learning dengan Google Cloud",
+        "Learning Hour": "40 Jam",
+        "Rating": "4,85",
+        "Level": "Mahir",
+        "Summary": "Pelajari penerapan machine learning di Google Cloud mulai dari mengembangkan model hingga membangun aplikasi machine learning.",
+        "Total Modules": "54 Modul",
+        "Total Students": "3.315 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Penerapan Machine Learning untuk Android",
+        "Learning Hour": "60 Jam",
+        "Rating": "4,91",
+        "Level": "Mahir",
+        "Summary": "Kembangkan keterampilan integrasi Machine Learning di Android dengan memanfaatkan ML Kit, TensorFlow Lite, MediaPipe, dan Firebase ML.",
+        "Total Modules": "60 Modul",
+        "Total Students": "3.018 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Strategi Pengembangan Diri",
+        "Learning Hour": "12 Jam",
+        "Rating": "4,88",
+        "Level": "Dasar",
+        "Summary": "Jelajahi potensi diri, hadapi tantangan dengan keberanian, dan raih kesuksesan yang bermakna melalui pengembangan diri.",
+        "Total Modules": "37 Modul",
+        "Total Students": "19.006 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Dev Certification for Machine Learning with Tensorflow (DCML) Preparation",
+        "Learning Hour": "25 Jam",
+        "Rating": "",
+        "Level": "Kompetensi Sertifikasi",
+        "Summary": "Preparation course for taking the Dev Certification for Machine Learning with Tensorflow (DCML) by the dev.cert program.",
+        "Total Modules": "5 Modul",
+        "Total Students": "1.130 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Dev Certification for Android (DCA) Preparation",
+        "Learning Hour": "40 Jam",
+        "Rating": "",
+        "Level": "Kompetensi Sertifikasi",
+        "Summary": "Preparation course for taking the Dev Certification for Android (DCA) by the dev.id certification (dev.cert) program.",
+        "Total Modules": "14 Modul",
+        "Total Students": "1.126 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Fundamental Pemrosesan Data",
+        "Learning Hour": "70 Jam",
+        "Rating": "4,91",
+        "Level": "Menengah",
+        "Summary": "Pelajari cara menyiapkan dan memproses data untuk proyek data science dan machine learning menggunakan Python, SQL, dan PostgreSQL.",
+        "Total Modules": "70 Modul",
+        "Total Students": "37.754 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Membangun Sistem Machine Learning",
+        "Learning Hour": "90 Jam",
+        "Rating": "4,88",
+        "Level": "Mahir",
+        "Summary": "Pelajari cara menerapkan model machine learning pada tahap produksi dengan membuat dan mengimplementasikan prinsip MLOps menggunakan MLflow.",
+        "Total Modules": "72 Modul",
+        "Total Students": "3.679 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Strategi Perencanaan Karier",
+        "Learning Hour": "20 Jam",
+        "Rating": "4,92",
+        "Level": "Pemula",
+        "Summary": "Pelajari strategi perencanaan karier mulai dari pemetaan, pencarian kerja, hingga persiapan melamar kerja untuk meraih karier impian.",
+        "Total Modules": "51 Modul",
+        "Total Students": "288 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Back-End Pemula dengan Python",
+        "Learning Hour": "40 Jam",
+        "Rating": "4,82",
+        "Level": "Pemula",
+        "Summary": "Pelajari cara membangun RESTful API dengan Python, mulai dari pengembangan di lokal hingga deployment ke Google Cloud.",
+        "Total Modules": "109 Modul",
+        "Total Students": "2.963 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Prompt Engineering untuk Software Developer",
+        "Learning Hour": "16 Jam",
+        "Rating": "4,87",
+        "Level": "Dasar",
+        "Summary": "Pelajari penerapan berbagai pola dan best practices prompt engineering dalam berbagai aktivitas software development.",
+        "Total Modules": "46 Modul",
+        "Total Students": "25.258 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Penerapan Machine Learning untuk Flutter",
+        "Learning Hour": "60 Jam",
+        "Rating": "4,93",
+        "Level": "Mahir",
+        "Summary": "Pelajari implementasi machine learning di Flutter dengan memanfaatkan generative AI dan teknologi lain, seperti ML Kit serta LiteRT.",
+        "Total Modules": "56 Modul",
+        "Total Students": "364 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Fundamental Back-End dengan Python",
+        "Learning Hour": "65 Jam",
+        "Rating": "5,00",
+        "Level": "Menengah",
+        "Summary": "Kuasai konsep fundamental Back-End menggunakan Python seperti database, queue, dan caching untuk membangun Back-End yang andal dan skalabel.",
+        "Total Modules": "126 Modul",
+        "Total Students": "245 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Membangun Proyek Deep Learning Tingkat Mahir",
+        "Learning Hour": "90 Jam",
+        "Rating": "4,92",
+        "Level": "Mahir",
+        "Summary": "Pelajari teknik deep learning tingkat mahir agar dapat mengkustomisasi model dan training hingga mengimplementasikan berbagai algoritma.",
+        "Total Modules": "87 Modul",
+        "Total Students": "1.581 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Matematika untuk Data Science",
+        "Learning Hour": "70 Jam",
+        "Rating": "4,91",
+        "Level": "Menengah",
+        "Summary": "Pelajari fundamental matematika sebagai fondasi kuat dalam memahami dan menerapkan data science secara efektif.",
+        "Total Modules": "87 Modul",
+        "Total Students": "1.650 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "AI Praktis untuk Produktivitas",
+        "Learning Hour": "20 Jam",
+        "Rating": "4,86",
+        "Level": "Dasar",
+        "Summary": "Pelajari konsep dasar AI, manfaatkan alat AI, kuasai prompt engineering, dan gunakan AI secara etis untuk tetap unggul di era digital.",
+        "Total Modules": "48 Modul",
+        "Total Students": "12.101 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Penggunaan Generative AI",
+        "Learning Hour": "30 Jam",
+        "Rating": "4,86",
+        "Level": "Dasar",
+        "Summary": "Kuasai generative AI untuk meningkatkan kreativitas, produktivitas, dan penggunaan AI yang bertanggung jawab dalam berbagai bidang.",
+        "Total Modules": "76 Modul",
+        "Total Students": "13.190 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Pemrograman Rust untuk Pemula",
+        "Learning Hour": "40 Jam",
+        "Rating": "4,88",
+        "Level": "Pemula",
+        "Summary": "Kuasai dasar Rust untuk menulis kode aman, cepat, dan idiomatik, dari ownership hingga error handling, serta membangun aplikasi CLI praktis.",
+        "Total Modules": "91 Modul",
+        "Total Students": "513 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Penerapan AI di Aplikasi Web",
+        "Learning Hour": "50 Jam",
+        "Rating": "4,94",
+        "Level": "Mahir",
+        "Summary": "Ciptakan pengalaman web interaktif menggunakan Computer Vision dan Generative AI yang dapat berjalan secara lokal langsung di browser.",
+        "Total Modules": "69 Modul",
+        "Total Students": "147 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Dasar Cyber Security",
+        "Learning Hour": "20 Jam",
+        "Rating": "4,91",
+        "Level": "Dasar",
+        "Summary": "Bekali diri dengan pengetahuan siber, mulai dari mengenal definisi dasar, ancaman, penerapan praktis, hingga cara menjadi praktisi andal.",
+        "Total Modules": "46 Modul",
+        "Total Students": "225 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Fundamental Generative AI",
+        "Learning Hour": "60 Jam",
+        "Rating": "4,90",
+        "Level": "Menengah",
+        "Summary": "Pelajari penggunaan dan pengembangan model Generative AI di berbagai modalitas mulai dari teks, gambar, hingga audio.",
+        "Total Modules": "55 Modul",
+        "Total Students": "759 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Membangun Aplikasi Gen AI dengan Microsoft Azure",
+        "Learning Hour": "8 Jam",
+        "Rating": "4,86",
+        "Level": "Menengah",
+        "Summary": "Bangun aplikasi chat interaktif dengan language model dan Generative AI. Kuasai fitur utama Azure AI Foundry seperti Prompt Flow & RAG.",
+        "Total Modules": "74 Modul",
+        "Total Students": "35.963 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Penerapan Data Science dengan Microsoft Fabric",
+        "Learning Hour": "6 Jam",
+        "Rating": "4,86",
+        "Level": "Pemula",
+        "Summary": "Pelajari data science end-to-end di Microsoft Fabric. Mulai dari eksplorasi data, bangun model ML, hingga deploy dan monitor hasilnya.",
+        "Total Modules": "55 Modul",
+        "Total Students": "35.972 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Analisis Data untuk Pemula",
+        "Learning Hour": "30 Jam",
+        "Rating": "4,92",
+        "Level": "Pemula",
+        "Summary": "Pelajari dasar analisis data mulai dari pembersihan, analisis, hingga prediksi menggunakan Spreadsheet, SQL, Looker Studio, dan Orange.",
+        "Total Modules": "66 Modul",
+        "Total Students": "116 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Dasar Pengembangan Aplikasi Mobile",
+        "Learning Hour": "16 Jam",
+        "Rating": "4,93",
+        "Level": "Dasar",
+        "Summary": "Pahami ekosistem, teknologi, dan alur pengembangan aplikasi mobile sebagai fondasi utama untuk menjadi Mobile Developer.",
+        "Total Modules": "38 Modul",
+        "Total Students": "2.315 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Dasar Desain UX bagi Desainer UI/UX Pemula",
+        "Learning Hour": "23 Jam",
+        "Rating": "4,71",
+        "Level": "Dasar",
+        "Summary": "Belajar membuat User Experience yang menarik & menyenangkan menggunakan Design Thinking, mulai dari mencari masalah hingga membuat solusi.",
+        "Total Modules": "99 Modul",
+        "Total Students": "51 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Memulai Dasar Pemrograman Bagi Pengembang Perangkat Lunak Pemula",
+        "Learning Hour": "15 Jam",
+        "Rating": "5,00",
+        "Level": "Dasar",
+        "Summary": "Memulai Dasar Pemrograman Bagi Pengembang Perangkat Lunak Pemula",
+        "Total Modules": "21 Modul",
+        "Total Students": "4 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Dasar DevOps Bagi Insinyur Operasi Pengembang Pemula",
+        "Learning Hour": "15 Jam",
+        "Rating": "5,00",
+        "Level": "Dasar",
+        "Summary": "Belajar Dasar DevOps Bagi Insinyur Operasi Pengembang Pemula",
+        "Total Modules": "21 Modul",
+        "Total Students": "8 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Implementasi CI/CD",
+        "Learning Hour": "30 Jam",
+        "Rating": "4,86",
+        "Level": "Menengah",
+        "Summary": "Raih aplikasi yang berkualitas tinggi dengan mengimplementasikan CI/CD ke dalam siklus pengembangan aplikasimu.",
+        "Total Modules": "62 Modul",
+        "Total Students": "3.532 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Menjadi Linux System Administrator",
+        "Learning Hour": "25 Jam",
+        "Rating": "4,90",
+        "Level": "Menengah",
+        "Summary": "Pelajari sistem operasi Linux secara mendalam, mulai dari perintah dasar, pemrograman shell, pengelolaan sistem, hingga container Linux.",
+        "Total Modules": "64 Modul",
+        "Total Students": "4.252 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Fundamental Aplikasi Web dengan React",
+        "Learning Hour": "55 Jam",
+        "Rating": "4,92",
+        "Level": "Menengah",
+        "Summary": "Pelajari penerapan validasi props, client routing, transaksi RESTful API, hingga React Hooks sebagai fondasi dalam membangun aplikasi React.",
+        "Total Modules": "70 Modul",
+        "Total Students": "5.904 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Membuat Aplikasi Web dengan React",
+        "Learning Hour": "35 Jam",
+        "Rating": "4,90",
+        "Level": "Pemula",
+        "Summary": "Pelajari kemampuan dasar dalam membuat aplikasi React seperti element, component, props, event handling, dan state.",
+        "Total Modules": "56 Modul",
+        "Total Students": "35.092 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Jaringan Komputer untuk Pemula",
+        "Learning Hour": "25 Jam",
+        "Rating": "4,90",
+        "Level": "Pemula",
+        "Summary": "Telusuri teori dan praktik mengenai jaringan komputer, mulai dari dasar-dasar jaringan komputer hingga implementasi layanan jaringan di AWS.",
+        "Total Modules": "62 Modul",
+        "Total Students": "51.593 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Dasar-Dasar DevOps",
+        "Learning Hour": "15 Jam",
+        "Rating": "4,87",
+        "Level": "Dasar",
+        "Summary": "Pelajari kultur, praktik, dan tools pada DevOps yang memungkinkan proses pengembangan aplikasi menjadi lebih cepat, efisien, dan aman.",
+        "Total Modules": "38 Modul",
+        "Total Students": "53.737 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Pengembangan Aplikasi Android Intermediate",
+        "Learning Hour": "150 Jam",
+        "Rating": "4,84",
+        "Level": "Mahir",
+        "Summary": "Tingkatkan pengalaman pengguna dengan mempelajari Custom View, Animation, Localization, Media, Location, Testing, dan Advanced Database.",
+        "Total Modules": "115 Modul",
+        "Total Students": "8.751 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud",
+        "Learning Hour": "45 Jam",
+        "Rating": "4,87",
+        "Level": "Pemula",
+        "Summary": "Belajar membuat RESTful API, dari HTTP server, routing, hingga membangun aplikasi Back-End dengan Google Cloud menggunakan Compute Engine.",
+        "Total Modules": "108 Modul",
+        "Total Students": "10.967 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Dasar Google Cloud",
+        "Learning Hour": "12 Jam",
+        "Rating": "4,87",
+        "Level": "Dasar",
+        "Summary": "Mengenal konsep, terminologi, dan layanan yang digunakan dalam teknologi cloud. Hingga cara meningkatkan nilai bisnis bersama Google Cloud.",
+        "Total Modules": "78 Modul",
+        "Total Students": "15.600 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Dasar UX Design",
+        "Learning Hour": "36 Jam",
+        "Rating": "4,89",
+        "Level": "Dasar",
+        "Summary": "Belajar membuat User Experience yang menarik & menyenangkan menggunakan Design Thinking, mulai dari mencari masalah hingga membuat solusi.",
+        "Total Modules": "92 Modul",
+        "Total Students": "26.081 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Menjadi Google Cloud Architect",
+        "Learning Hour": "35 Jam",
+        "Rating": "4,88",
+        "Level": "Mahir",
+        "Summary": "Pelajari cara membangun arsitektur cloud di Google Cloud, dari membuat virtual machine hingga membangun arsitektur yang highly available.",
+        "Total Modules": "75 Modul",
+        "Total Students": "4.149 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Pengembangan Aplikasi Flutter Intermediate",
+        "Learning Hour": "80 Jam",
+        "Rating": "4,86",
+        "Level": "Mahir",
+        "Summary": "Tingkatkan pengalaman pengguna dengan mempelajari Advanced Navigation, Media, Localization, Flutter Desktop, Animation, dan Location.",
+        "Total Modules": "93 Modul",
+        "Total Students": "1.965 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Membuat Aplikasi Android dengan Jetpack Compose",
+        "Learning Hour": "50 Jam",
+        "Rating": "4,86",
+        "Level": "Mahir",
+        "Summary": "Saatnya mendesain UI dengan lebih mudah cepat dan mudah dengan menggunakan Jetpack Compose, cara modern untuk membuat layout di Android.",
+        "Total Modules": "80 Modul",
+        "Total Students": "4.532 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Machine Learning Operations (MLOps)",
+        "Learning Hour": "80 Jam",
+        "Rating": "4,72",
+        "Level": "Mahir",
+        "Summary": "Pelajari proses pengembangan dan pengoperasian sistem machine learning dalam lingkup produksi dengan menerapkan berbagai prinsip MLOps.",
+        "Total Modules": "72 Modul",
+        "Total Students": "4.925 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Membangun Arsitektur Microservices",
+        "Learning Hour": "60 Jam",
+        "Rating": "4,85",
+        "Level": "Mahir",
+        "Summary": "Asah dan uji keterampilanmu dalam membangun arsitektur microservices dengan mempraktikkan Container, Container Registry, dan Kubernetes.",
+        "Total Modules": "94 Modul",
+        "Total Students": "2.170 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Menjadi React Web Developer Expert",
+        "Learning Hour": "70 Jam",
+        "Rating": "4,90",
+        "Level": "Mahir",
+        "Summary": "Pelajari kaidah penulisan kode, state management dengan Redux, testing, hingga deployment dengan CI/CD pada pengembangan aplikasi React-mu.",
+        "Total Modules": "103 Modul",
+        "Total Students": "3.184 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Meniti Karier sebagai Software Developer",
+        "Learning Hour": "7 Jam",
+        "Rating": "4,90",
+        "Level": "Dasar",
+        "Summary": "Pelajari berbagai jalur yang tersedia sebagai Software Developer dari sudut pandang developer ahli yang sudah meniti karier di bidangnya.",
+        "Total Modules": "53 Modul",
+        "Total Students": "20.748 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Pengenalan ke Logika Pemrograman (Programming Logic 101)",
+        "Learning Hour": "6 Jam",
+        "Rating": "4,91",
+        "Level": "Dasar",
+        "Summary": "Pelajari logika-logika dasar dalam pemrograman dimulai dari jenis-jenis logika pemrograman, gerbang logika, hingga computational thinking.",
+        "Total Modules": "37 Modul",
+        "Total Students": "50.986 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Dasar Git dengan GitHub",
+        "Learning Hour": "15 Jam",
+        "Rating": "4,89",
+        "Level": "Dasar",
+        "Summary": "Pelajari cara mengelola data atau kode menggunakan Git dengan GitHub, mulai dari dasar-dasar Git hingga berkolaborasi dengan tim.",
+        "Total Modules": "78 Modul",
+        "Total Students": "47.990 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Memulai Pemrograman Dengan C",
+        "Learning Hour": "15 Jam",
+        "Rating": "4,84",
+        "Level": "Dasar",
+        "Summary": "Belajar programming menggunakan bahasa C yang menjadi populer dikarenakan cepat dan mudah untuk dipelajari bagi para pemula.",
+        "Total Modules": "48 Modul",
+        "Total Students": "57.646 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Dasar Visualisasi Data",
+        "Learning Hour": "16 Jam",
+        "Rating": "4,86",
+        "Level": "Dasar",
+        "Summary": "Pelajari teknik dasar untuk representasi hasil secara visual sehingga dapat menceritakan dan mempresentasikan data secara efektif.",
+        "Total Modules": "50 Modul",
+        "Total Students": "134.897 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Memulai Pemrograman dengan Python",
+        "Learning Hour": "60 Jam",
+        "Rating": "4,83",
+        "Level": "Dasar",
+        "Summary": "Pelajari dasar Python hingga library populer yang menjadi landasan tren industri data science, machine learning, dan back-end development.",
+        "Total Modules": "91 Modul",
+        "Total Students": "282.694 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Machine Learning untuk Pemula",
+        "Learning Hour": "90 Jam",
+        "Rating": "4,85",
+        "Level": "Pemula",
+        "Summary": "Pelajari dasar machine learning dengan fokus materi supervised learning, unsupervised learning, hingga teknik meningkatkan performa model.",
+        "Total Modules": "117 Modul",
+        "Total Students": "254.387 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Fundamental Deep Learning",
+        "Learning Hour": "110 Jam",
+        "Rating": "4,87",
+        "Level": "Menengah",
+        "Summary": "Pelajari berbagai penerapan deep learning mulai dari klasifikasi gambar dan teks, time series, sistem rekomendasi, hingga Generative AI.",
+        "Total Modules": "131 Modul",
+        "Total Students": "16.754 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Machine Learning Terapan",
+        "Learning Hour": "80 Jam",
+        "Rating": "4,87",
+        "Level": "Mahir",
+        "Summary": "Pelajari penerapan machine learning dengan real-world projects mulai dari predictive analytics, sentiment analysis, dan sistem rekomendasi.",
+        "Total Modules": "109 Modul",
+        "Total Students": "8.683 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Memulai Pemrograman Dengan Java",
+        "Learning Hour": "15 Jam",
+        "Rating": "4,86",
+        "Level": "Dasar",
+        "Summary": "Belajar bahasa Java buat kamu yang ingin mempelajari konsep Pemrograman Berorientasi Objek (PBO) terpopuler untuk mengembangkan aplikasi.",
+        "Total Modules": "42 Modul",
+        "Total Students": "89.227 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Memulai Pemrograman dengan Kotlin",
+        "Learning Hour": "50 Jam",
+        "Rating": "4,84",
+        "Level": "Dasar",
+        "Summary": "Pelajari dasar bahasa pemrograman, functional programming, object-oriented programming (OOP), serta concurrency dengan menggunakan Kotlin.",
+        "Total Modules": "97 Modul",
+        "Total Students": "77.359 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Prinsip Pemrograman SOLID",
+        "Learning Hour": "15 Jam",
+        "Rating": "4,87",
+        "Level": "Menengah",
+        "Summary": "Pelajari kelima prinsip desain yang merupakan pedoman untuk rancangan kode yang baik pada pemrograman berorientasi objek (OOP).",
+        "Total Modules": "41 Modul",
+        "Total Students": "45.729 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Membuat Aplikasi Android untuk Pemula",
+        "Learning Hour": "60 Jam",
+        "Rating": "4,87",
+        "Level": "Pemula",
+        "Summary": "Buat aplikasi pertamamu pada Android Studio dengan mempelajari dasar Activity, Intent, View & ViewGroup, Style & Theme sampai RecyclerView.",
+        "Total Modules": "49 Modul",
+        "Total Students": "132.351 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Fundamental Aplikasi Android",
+        "Learning Hour": "140 Jam",
+        "Rating": "4,84",
+        "Level": "Menengah",
+        "Summary": "Pelajari skill Android dengan kurikulum terlengkap yang dibutuhkan perusahaan. Mulai dari UI/UX, background process, API sampai database.",
+        "Total Modules": "107 Modul",
+        "Total Students": "44.106 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Menjadi Android Developer Expert",
+        "Learning Hour": "90 Jam",
+        "Rating": "4,80",
+        "Level": "Profesional",
+        "Summary": "Saatnya menjadi Android Expert dengan belajar Clean Architecture, Reactive, Dependency Injection, Modularization, Performance, dan Security.",
+        "Total Modules": "86 Modul",
+        "Total Students": "7.163 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Memulai Pemrograman Dengan Swift",
+        "Learning Hour": "40 Jam",
+        "Rating": "4,84",
+        "Level": "Dasar",
+        "Summary": "Belajar bahasa Swift buat kamu yang ingin mempelajari konsep dasar pemrograman dalam mengembangkan aplikasi iOS, iPadOS, dan macOS.",
+        "Total Modules": "95 Modul",
+        "Total Students": "9.093 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Membuat Aplikasi iOS untuk Pemula",
+        "Learning Hour": "40 Jam",
+        "Rating": "4,82",
+        "Level": "Pemula",
+        "Summary": "Pelajari cara membuat aplikasi pertamamu dengan Xcode. Kelas ini mengajarkan dasar yang dibutuhkan mulai dari Controller sampai TableViews.",
+        "Total Modules": "74 Modul",
+        "Total Students": "4.100 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Fundamental Aplikasi iOS",
+        "Learning Hour": "70 Jam",
+        "Rating": "4,82",
+        "Level": "Menengah",
+        "Summary": "Pelajari komponen fundamental iOS berdasarkan teknik yang digunakan industri mulai dari App Design, SwiftUI, Networking, sampai Database.",
+        "Total Modules": "127 Modul",
+        "Total Students": "1.615 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Menjadi iOS Developer Expert",
+        "Learning Hour": "70 Jam",
+        "Rating": "4,83",
+        "Level": "Mahir",
+        "Summary": "Saatnya jadi iOS Expert dengan belajar Clean Code, Design Pattern, Clean Architecture, Reactive Programming, DI, Modularization, dan TDD.",
+        "Total Modules": "126 Modul",
+        "Total Students": "1.212 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Dasar Pemrograman Web",
+        "Learning Hour": "45 Jam",
+        "Rating": "4,87",
+        "Level": "Dasar",
+        "Summary": "Pelajari komponen-komponen dasar HTML dan CSS yang merupakan fondasi utama untuk menjadi front-end web developer.",
+        "Total Modules": "131 Modul",
+        "Total Students": "267.182 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Membuat Front-End Web untuk Pemula",
+        "Learning Hour": "45 Jam",
+        "Rating": "4,88",
+        "Level": "Pemula",
+        "Summary": "Pelajari materi mengenai DOM manipulation, Event, dan Web Storage untuk meningkatkan fungsionalitas dan interaktifitas pada website Anda.",
+        "Total Modules": "69 Modul",
+        "Total Students": "186.882 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Fundamental Front-End Web Development",
+        "Learning Hour": "80 Jam",
+        "Rating": "4,89",
+        "Level": "Menengah",
+        "Summary": "Pelajari sintaks ES6, Web Component, dan Build Tools dalam membangun website dengan teknik yang simple, reusable, dan optimized.",
+        "Total Modules": "116 Modul",
+        "Total Students": "33.511 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Pengembangan Web Intermediate",
+        "Learning Hour": "80 Jam",
+        "Rating": "4,89",
+        "Level": "Mahir",
+        "Summary": "Pelajari pengembangan web untuk pengalaman web optimal di mobile, dari aksesibilitas, animasi, media, peta, service worker, hingga PWA.",
+        "Total Modules": "129 Modul",
+        "Total Students": "12.240 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Dasar Cloud dan Gen AI di AWS",
+        "Learning Hour": "18 Jam",
+        "Rating": "4,82",
+        "Level": "Dasar",
+        "Summary": "Pelajari materi dasar Cloud dengan menggunakan AWS, dari konsep cloud computing, hingga penerapan generative AI dengan AWS.",
+        "Total Modules": "99 Modul",
+        "Total Students": "231.165 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Dasar Pemrograman JavaScript",
+        "Learning Hour": "46 Jam",
+        "Rating": "4,86",
+        "Level": "Dasar",
+        "Summary": "Pelajari dasar JavaScript, dari fundamental, sintaks dan fitur ES6, hingga konsep automation test menggunakan framework populer.",
+        "Total Modules": "111 Modul",
+        "Total Students": "270.498 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Back-End Pemula dengan JavaScript",
+        "Learning Hour": "50 Jam",
+        "Rating": "4,90",
+        "Level": "Pemula",
+        "Summary": "Pelajari dasar dalam membangun RESTful API, dari HTTP server, routing, hingga membangun Back-End untuk aplikasi yang nyata.",
+        "Total Modules": "126 Modul",
+        "Total Students": "153.657 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Architecting on AWS (Membangun Arsitektur Cloud di AWS)",
+        "Learning Hour": "40 Jam",
+        "Rating": "4,84",
+        "Level": "Menengah",
+        "Summary": "Pelajari cara membangun arsitektur cloud di AWS, dari yang sederhana dengan Amazon S3 hingga yang canggih dengan teknologi serverless.",
+        "Total Modules": "170 Modul",
+        "Total Students": "15.039 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Fundamental Back-End dengan JavaScript",
+        "Learning Hour": "90 Jam",
+        "Rating": "4,89",
+        "Level": "Menengah",
+        "Summary": "Pelajari teknologi dalam membangun RESTful API yang canggih seperti Database, Storage, hingga Authentication dan Authorization.",
+        "Total Modules": "172 Modul",
+        "Total Students": "9.894 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Menjadi Back-End Developer Expert dengan JavaScript",
+        "Learning Hour": "82 Jam",
+        "Rating": "4,88",
+        "Level": "Mahir",
+        "Summary": "Pelajari teknik Automation Testing, Clean Architecture, CI/CD, Security, dan Scalability dalam membangun RESTful API berskala industri.",
+        "Total Modules": "116 Modul",
+        "Total Students": "4.467 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "DevOps Praktis dengan IBM Cloud (Practical DevOps with IBM Cloud)",
+        "Learning Hour": "35 Jam",
+        "Rating": "4,89",
+        "Level": "Menengah - Mahir",
+        "Summary": "Pelajari kultur Software Development (Dev) dan IT Operations (Ops) untuk pengembangan aplikasi yang cepat, reliable, dan berkualitas.",
+        "Total Modules": "96 Modul",
+        "Total Students": "1.803 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Menjadi Google Cloud Engineer",
+        "Learning Hour": "42 Jam",
+        "Rating": "4,87",
+        "Level": "Menengah",
+        "Summary": "Pelajari konsep dan terminologi cloud computing beserta penjelasan berbagai layanan yang tersedia di Google Cloud.",
+        "Total Modules": "85 Modul",
+        "Total Students": "10.821 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Simulasi Ujian Associate Cloud Engineer",
+        "Learning Hour": "25 Jam",
+        "Rating": "",
+        "Level": "Kompetensi Sertifikasi",
+        "Summary": "Latihan ujian sebagai persiapan pengambilan ujian sertifikasi Associate Cloud Engineer pada program Google Developers Certification.",
+        "Total Modules": "5 Modul",
+        "Total Students": "8.828 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Memulai Pemrograman dengan Dart",
+        "Learning Hour": "30 Jam",
+        "Rating": "4,84",
+        "Level": "Dasar",
+        "Summary": "Belajar bahasa Dart sebagai fondasi dasar untuk mengembangkan aplikasi di berbagai platform menggunakan Flutter.",
+        "Total Modules": "86 Modul",
+        "Total Students": "37.554 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Membuat Aplikasi Flutter untuk Pemula",
+        "Learning Hour": "40 Jam",
+        "Rating": "4,88",
+        "Level": "Pemula",
+        "Summary": "Buat aplikasi pertamamu dengan Flutter. Pelajari konsep dasar layouting dengan widget dan menjalankan aplikasi di platform mobile & web.",
+        "Total Modules": "51 Modul",
+        "Total Students": "34.930 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Fundamental Aplikasi Flutter",
+        "Learning Hour": "90 Jam",
+        "Rating": "4,85",
+        "Level": "Menengah",
+        "Summary": "Pelajari komponen fundamental Flutter berdasarkan teknik yang digunakan industri mulai dari state management, API, database, sampai testing.",
+        "Total Modules": "101 Modul",
+        "Total Students": "5.876 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Menjadi Flutter Developer Expert",
+        "Learning Hour": "85 Jam",
+        "Rating": "4,85",
+        "Level": "Profesional",
+        "Summary": "Pelajari bagaimana membuat aplikasi yang scalable dengan Clean Architecture, TDD, CI, Modularization, dan Reactive Programming.",
+        "Total Modules": "93 Modul",
+        "Total Students": "2.923 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Memulai Dasar Pemrograman untuk Menjadi Pengembang Software",
+        "Learning Hour": "9 Jam",
+        "Rating": "4,88",
+        "Level": "Dasar",
+        "Summary": "Pelajari langkah menjadi pengembang software dari tahapan analisis dan perencanaan sampai modifikasi perangkat lunak beserta dokumentasi.",
+        "Total Modules": "73 Modul",
+        "Total Students": "58.939 Siswa Terdaftar"
+    },
+    {
+        "Course Name": "Belajar Membuat Aplikasi Kognitif",
+        "Learning Hour": "15 Jam",
+        "Rating": "4,85",
+        "Level": "Pemula",
+        "Summary": "Kelas ini didesain untuk developer yang ingin mempelajari aplikasi kognitif dengan menggunakan teknologi IBM Watson.",
+        "Total Modules": "24 Modul",
+        "Total Students": "7.825 Siswa Terdaftar"
+    }
+]
