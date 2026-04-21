@@ -33,14 +33,14 @@ def scraper(url, max_pages=5):
 
             try:
                 wait = WebDriverWait(driver, timeout=8)
-                wait.until(EC.presence_of_element_located((By.CLASS_NAME, 'card-list-section')))
+                wait.until(EC.presence_of_element_located((By.ID, 'srp-container')))
             except Exception:
-                print("Element card-list-section tidak ditemukan. Stop pagination.")
+                print("Element srp-container tidak ditemukan. Stop pagination.")
                 break
 
             content = driver.page_source
             soup = BeautifulSoup(content, 'html.parser')
-            rumah_cards = soup.find_all('div', attrs={'data-test-id': 'card-middle-section'})
+            rumah_cards = soup.select('div[data-test-id^="property-card-"]')
 
             if not rumah_cards:
                 print("Tidak ada listing di halaman ini. Stop pagination.")
@@ -50,20 +50,19 @@ def scraper(url, max_pages=5):
             for rumah in rumah_cards:
                 try:
                     nama = rumah.find('h2').text.strip() if rumah.find('h2') else ''
-                    harga = rumah.find('strong').text.strip() if rumah.find('strong') else ''
+                    harga = rumah.find('div', attrs={'data-name': 'price-info'}).text.strip() if rumah.find('div', attrs={'data-name': 'price-info'}) else ''
 
-                    lokasi_tag = rumah.find('span', recursive=False)
-                    lokasi = lokasi_tag.text.strip() if lokasi_tag else ''
+                    lokasi= rumah.find('p', class_=['text-left', 'font-medium', 'text-greyText', 'text-sm', 'truncate', 'px-4']).text.strip() if rumah.find('p', class_=['text-left', 'font-medium', 'text-greyText', 'text-sm', 'truncate', 'px-4']) else ''
 
                     # Gunakan class 'attribute-text' untuk spesifikasi
-                    attribute_texts = rumah.find_all('span', class_='attribute-text')
-                    jumlah_kamar_tidur = attribute_texts[0].text.strip() if len(attribute_texts) > 0 else '0'
-                    jumlah_kamar_mandi = attribute_texts[1].text.strip() if len(attribute_texts) > 1 else '0'
-                    jumlah_carport = attribute_texts[2].text.strip() if len(attribute_texts) > 2 else '0'
+                    spek_container = rumah.find('div', class_=['flex', 'items-center', 'gap-x-2', 'text-accent', 'font-medium', 'text-sm', 'overflow-x-auto', 'no-scrollbar', '[&>*]:flex-shrink-0'])
+                    spek = spek_container.find_all('span', class_='flex')
 
-                    attribute_infos = rumah.find_all('div', class_='attribute-info')
-                    luas_tanah = attribute_infos[0].text.strip() if len(attribute_infos) > 0 else ''
-                    luas_bangunan = attribute_infos[1].text.strip() if len(attribute_infos) > 1 else ''
+                    jumlah_kamar_tidur = spek[0].text.strip() if len(spek) > 0 else '0'
+                    jumlah_kamar_mandi = spek[1].text.strip() if len(spek) > 0 else '0'
+                    jumlah_carport = spek[2].text.strip() if len(spek) > 6 else '0'
+                    luas_tanah = spek[3].text.strip() if len(spek) > 0 else ''
+                    luas_bangunan = spek[4].text.strip() if len(spek) > 0 else ''
 
                     page_data.append({
                         'Nama': nama,
@@ -103,14 +102,13 @@ if __name__ == '__main__':
     # Define target URLs
 
     data = [
-        'url_rumah_semarang = "https://www.rumah123.com/jual/semarang/rumah/"',
-        'url_rumah_wonogiri = "https://www.rumah123.com/jual/wonogiri/rumah/"',
-        'url_rumah_cirebon = "https://www.rumah123.com/jual/cirebon/rumah/"'
+        'https://www.rumah123.com/jual/rumah/?q=semarang',
+        'https://www.rumah123.com/jual/wonogiri/rumah/',
+        'https://www.rumah123.com/jual/cirebon/rumah/'
     ]
  
     all_data = []
-    for i in data:
-        url = i.split('=')[1].strip().strip('"')
+    for url in data:
         print(f"Scraping data dari: {url}")
         scraped_data = scraper(url)
         all_data.extend(scraped_data)
