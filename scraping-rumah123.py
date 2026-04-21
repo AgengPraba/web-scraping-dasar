@@ -5,8 +5,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.firefox.options import Options
 from bs4 import BeautifulSoup
 from pathlib import Path
-import json
 import pprint
+import csv
 import sys
 
 def dd(data):
@@ -74,7 +74,6 @@ def scraper(url, max_pages=5):
                         'Jumlah Carport': jumlah_carport,
                         'Luas Tanah': luas_tanah,
                         'Luas Bangunan': luas_bangunan,
-                        'Page': page,
                     })
                 except Exception as e:
                     print(f"Skip card karena error: {e}")
@@ -101,25 +100,30 @@ def scraper(url, max_pages=5):
 
  
 if __name__ == '__main__':
-    # Define the URL
+    # Define target URLs
 
     data = [
         'url_rumah_semarang = "https://www.rumah123.com/jual/semarang/rumah/"',
-        'url_rumah_jakarta = "https://www.rumah123.com/jual/jakarta/rumah/"',
         'url_rumah_wonogiri = "https://www.rumah123.com/jual/wonogiri/rumah/"',
         'url_rumah_cirebon = "https://www.rumah123.com/jual/cirebon/rumah/"'
     ]
  
+    all_data = []
     for i in data:
         url = i.split('=')[1].strip().strip('"')
         print(f"Scraping data dari: {url}")
         scraped_data = scraper(url)
+        all_data.extend(scraped_data)
         print(f"Jumlah data yang berhasil di-scrape: {len(scraped_data)}")
         print("-" * 50)
 
     # buat folder jika belum ada
     Path("data").mkdir(parents=True, exist_ok=True)
- 
-    # Save data to JSON file
-    with open('data/rumah123_data.json', 'w') as json_file:
-        json.dump(data, json_file, indent=4)
+
+    # Save data to CSV file
+    with open('data/rumah123_data.csv', 'w', newline='', encoding='utf-8') as csv_file:
+        fieldnames = ['Nama', 'Harga', 'Lokasi', 'Jumlah Kamar Tidur', 'Jumlah Kamar Mandi', 'Jumlah Carport', 'Luas Tanah', 'Luas Bangunan']
+        writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
+        writer.writeheader()
+        for data in all_data:
+            writer.writerow(data)
